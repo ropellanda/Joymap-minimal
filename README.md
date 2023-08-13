@@ -1,5 +1,5 @@
 # Joymap minimal
-This is an enhanced version of cfoote7's original Joymap software made for his PiSwitch project, it is updated to work with the latest version of RetroPie (4.8) and Raspberry Pi OS (Bullseye).
+This is an enhanced fork of cfoote7's original Joymap software made for his PiSwitch project, it is updated to work with the latest version of RetroPie (4.8) and Raspberry Pi OS (Bullseye).
 
 ## Testing:
 - Minimal UI
@@ -13,3 +13,7 @@ This is an enhanced version of cfoote7's original Joymap software made for his P
 ### Extras:
 - Add new audio devices setup script
 - Add modified PiSwitch-dark and PiSwitch-light Themes for ES
+
+---
+#### Original Software:
+https://github.com/cfoote7/PiSwitch
