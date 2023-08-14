@@ -4,11 +4,12 @@ This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch proj
 ## Testing:
 - Minimal UI
 - Autoboot in RetroPie
+- Fix flashing cursor screen
 
 ## In progress:
-- Fix flashing cursor screen
 - Fix RetroArch axis binding
 - No UI branch
+- Pi Zero (W) compatibility
 
 ### Extras:
 - Add new audio devices setup script
