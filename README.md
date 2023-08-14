@@ -12,10 +12,6 @@ This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch proj
 ## In progress:
 - Pi Zero (W) compatibility
 
-### Extras:
-- Add new audio devices setup script
-- Add modified PiSwitch-dark and PiSwitch-light Themes for ES
-
 ---
 #### Original Software:
 https://github.com/cfoote7/PiSwitch
