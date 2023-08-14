@@ -1,14 +1,15 @@
 # Joymap minimal
 This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch project, it is updated to work with the latest version of RetroPie (4.8) and Raspberry Pi OS (Bullseye).
 
-## Testing:
+## Working
 - Minimal UI
-- Autoboot in RetroPie
 - Fix flashing cursor screen
 
-## In progress:
+## Testing:
+- No UI Branch
 - Fix RetroArch axis binding
-- No UI branch
+
+## In progress:
 - Pi Zero (W) compatibility
 
 ### Extras:
