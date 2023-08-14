@@ -7,7 +7,6 @@ sudo cp /home/pi/joymap-minimal/autostart.sh /opt/retropie/configs/all/autostart
 sudo cp -R /home/pi/joymap-minimal/NewTouchBoot/ /opt/retropie/configs/all/NewTouchBoot
 sudo cp -R /home/pi/joymap-minimal/joymap/ /home/pi/joymap
 sudo cp /home/pi/joymap-minimal/SwitchBerry.jpg /home/pi/RetroPie/splashscreens/SwitchBerry.jpg
-sudo cp /home/pi/joymap-minimal/cmdline.txt /boot/cmdline.txt
 sudo cp /home/pi/joymap-minimal/splashscreen.list /etc/splashscreen.list
 sudo chmod 777 /home/pi/RetroPie/splashscreens/SwitchBerry.jpg
 sudo chmod 777 /etc/splashscreen.list
