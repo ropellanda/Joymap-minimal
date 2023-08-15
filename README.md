@@ -5,12 +5,9 @@ This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch proj
 - Minimal UI
 - Fix flashing cursor screen
 
-## Testing:
+## In Progress:
 - No UI Branch
 - Fix RetroArch axis binding
-
-## In progress:
-- Pi Zero (W) compatibility
 
 ---
 #### Original Software:
