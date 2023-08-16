@@ -3,7 +3,7 @@ This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch proj
 
 You can use the No UI version by selecting the no-ui branch
 
-## Testing
+## Working:
 - No UI Branch
 - Minimal UI
 - Fix flashing cursor screen

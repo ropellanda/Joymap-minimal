@@ -1,8 +1,9 @@
 # Extras
-This is extra software that you might want to include with your installation
-Run this script to install extras:
+This is extra software that you might want to include with your installation.
+Run this to install extras:
 ```
-sudo ./install-extras
+Sudo chmod +x install-extras.sh
+./install-extras.sh
 ```
 
 ## Themes

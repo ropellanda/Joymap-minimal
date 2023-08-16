@@ -119,7 +119,7 @@ class MyForm(wx.Frame):
         
         self.panel_two.lbl = wx.StaticText(self.panel_two, wx.ID_ANY, pos=(width/2 - 225, 10), style = wx.ALIGN_CENTER)
         txt1 = "Press Any Button" 
-        txt2 = "To Wake Your Joy-Con controllers" 
+        txt2 = "To Wake Your Joy-Cons" 
         txt3 = "A Check Box Will Appear to Indicate Success." 
         txt = txt1+"\n"+txt2+"\n"+txt3
         font = wx.Font(18, wx.ROMAN, wx.ITALIC, wx.NORMAL)
