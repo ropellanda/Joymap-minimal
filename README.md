@@ -9,13 +9,11 @@ wget https://raw.githubusercontent.com/ropellanda/joymap-minimal/master/setup.sh
 sudo chmod 777 setup.sh && sudo chmod a+x setup.sh
 ./setup.sh
 ```
-## Working:
-- No UI Branch
-- Minimal UI
-- Fix flashing cursor screen
-
-## In Progress:
-- Fix RetroArch axis binding
+## Tasks:
+- [x] No UI Branch
+- [x] Minimal UI
+- [x] Fix flashing cursor screen
+- [ ] Fix RetroArch axis binding
 
 ---
 #### Original Software:
