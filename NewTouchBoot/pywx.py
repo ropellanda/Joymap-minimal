@@ -118,8 +118,8 @@ class MyForm(wx.Frame):
         self.panel_two.button.Bind(wx.EVT_BUTTON, self.PressedButton)
         
         self.panel_two.lbl = wx.StaticText(self.panel_two, wx.ID_ANY, pos=(width/2 - 225, 10), style = wx.ALIGN_CENTER)
-        txt1 = "Press Any Button" 
-        txt2 = "To Wake Your Joy-Cons" 
+        txt1 = "To Connect Your Joy-Con Controllers" 
+        txt2 = "Press the Plus and Minus Buttons" 
         txt3 = "A Check Box Will Appear to Indicate Success." 
         txt = txt1+"\n"+txt2+"\n"+txt3
         font = wx.Font(18, wx.ROMAN, wx.ITALIC, wx.NORMAL)
@@ -188,7 +188,7 @@ class MyForm(wx.Frame):
         jconl=True
         self.panel_two.timer.Stop()
         self.panel_two.Hide()
-        self.panel_three.Show()
+        self.panel_one.Show()
         
     def Pressedrpb(self, e):
         self.panel_one.Hide()
