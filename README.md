@@ -1,5 +1,5 @@
 # Joymap minimal
-This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch project, it is updated to work with the latest version of RetroPie (4.8) and Raspberry Pi OS (Bullseye).
+This is an enhanced fork of cfoote7's Joymap software made for his PiSwitch project, it is updated to work with the latest version of RetroPie (4.8).
 
 ## Install:
 ```
