@@ -8,12 +8,7 @@ sudo chmod 777 setup.sh && sudo chmod a+x setup.sh
 ./setup.sh
 ```
 
-For No-UI branch:
-```
-wget https://raw.githubusercontent.com/ropellanda/joymap-minimal/no-ui/setup.sh
-```
 ## Tasks:
-- [x] No UI Branch
 - [x] Minimal UI
 - [x] Fix flashing cursor screen
 - [ ] Fix RetroArch axis binding
