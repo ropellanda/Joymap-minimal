@@ -2,7 +2,7 @@
 This is some extra software that you might want to include with your installation.
 Run this to install extras:
 ```
-Sudo chmod +x install-extras.sh
+sudo chmod +x install-extras.sh
 ./install-extras.sh
 ```
 
