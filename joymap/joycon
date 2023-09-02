@@ -14,7 +14,7 @@ axis vendor=0x057e product=0x2007 src=17 target=kbd plus="a" minus="d" deadzone=
 button vendor=0x057e product=0x2007 src=18 target=kbd button="s"
 button vendor=0x057e product=0x2007 src=19 target=kbd button="x"
 button vendor=0x057e product=0x2007 src=17 target=kbd button="z"
-button vendor=0x057e product=0x2007 src=16 target=kbd button="a"
+button vendor=0x057e product=0x2007 src=16 target=kbd button="v"
 button vendor=0x057e product=0x2007 src=25 target=kbd button="enter"
 button vendor=0x057e product=0x2007 src=28 target=kbd button="n"
 button vendor=0x057e product=0x2007 src=30 target=kbd button="m"
