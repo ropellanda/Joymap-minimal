@@ -166,7 +166,7 @@ class MyForm(wx.Frame):
         #self.Centre()   
 
         self.SetSize((width, height))
-        self.SetTitle('Starting Your Entertainment Experience')
+        self.SetTitle('Starting')
         self.Centre()
         self.Show(True)
 
