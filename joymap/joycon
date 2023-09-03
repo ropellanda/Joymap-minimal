@@ -11,9 +11,9 @@ button vendor=0x057e product=0x2006 src=31 target=kbd button="e"
 button vendor=0x057e product=0x2006 src=26 target=kbd button="t"
 axis vendor=0x057e product=0x2007 src=16 target=kbd plus="w" minus="s" deadzone=10 flags=trinary
 axis vendor=0x057e product=0x2007 src=17 target=kbd plus="a" minus="d" deadzone=10 flags=trinary
-button vendor=0x057e product=0x2007 src=18 target=kbd button="s"
+button vendor=0x057e product=0x2007 src=18 target=kbd button="z"
 button vendor=0x057e product=0x2007 src=19 target=kbd button="x"
-button vendor=0x057e product=0x2007 src=17 target=kbd button="z"
+button vendor=0x057e product=0x2007 src=17 target=kbd button="c"
 button vendor=0x057e product=0x2007 src=16 target=kbd button="v"
 button vendor=0x057e product=0x2007 src=25 target=kbd button="enter"
 button vendor=0x057e product=0x2007 src=28 target=kbd button="n"
